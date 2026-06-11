@@ -1,1 +1,21 @@
-**一些学习笔记记录**
+# AI Journey
+
+This repository documents my learning path in AI engineering and LLM applications.
+
+Topics covered:
+
+- NumPy & Pandas
+- Machine Learning
+- Deep Learning
+- NLP
+- Large Language Models
+- LangChain
+- LangGraph
+
+Projects:
+
+- RAG chatbot
+- Agent workflow system
+
+Current Goal:
+Seeking AI/LLM engineering internship opportunities.
