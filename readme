@@ -1,21 +1,30 @@
 # AI Journey
 
-This repository documents my learning path in AI engineering and LLM applications.
+This repository documents my learning journey in AI Engineering and Large Language Model (LLM) applications.
 
-Topics covered:
+## Topics Covered
 
 - NumPy & Pandas
 - Machine Learning
 - Deep Learning
-- NLP
-- Large Language Models
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
 - LangChain
 - LangGraph
 
-Projects:
+## Learning Goals
 
-- RAG chatbot
-- Agent workflow system
+- Build strong foundations in AI engineering.
+- Develop practical LLM applications.
+- Create end-to-end AI projects.
+- Prepare for AI/LLM internship opportunities.
 
-Current Goal:
-Seeking AI/LLM engineering internship opportunities.
+## Projects (Coming Soon)
+
+- RAG-based Knowledge Assistant
+- Multi-Agent Workflow System
+
+## Author
+
+Warren Ji  
+M.Sc. Information Systems, Technical University of Munich
