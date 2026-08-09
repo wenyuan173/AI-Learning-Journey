@@ -1,23 +1,58 @@
 # PyCharm
 .idea/
 
+# VSCode
+.vscode/
+
 # Python cache
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Packaging / build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
 
 # Virtual environments
 venv/
 .venv/
+env/
+ENV/
 
 # Environment variables (API keys)
 .env
+.env.*
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
+# Tool caches
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
 # OS files
 .DS_Store
 Thumbs.db
+Desktop.ini
 
 # Data directories (any level)
 **/data/
+
+# Model weights / checkpoints
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.onnx
+*.pkl
+*.joblib
+
+# Experiment tracking / logs
+logs/
+runs/
+wandb/
+mlruns/
+*.log
